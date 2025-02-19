@@ -1,0 +1,2 @@
+C:\Lichnoe\JAMK\VRFT\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Lichnoe\JAMK\VRFT\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
